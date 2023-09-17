@@ -1,2 +1,2 @@
-# Winna_XRPL_C
+# Winna_XIRPL_C
 Membuat repo pertama
